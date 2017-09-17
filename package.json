@@ -1,0 +1,25 @@
+{
+  "name": "sos-api-node",
+  "version": "1.0.0",
+  "description": "Communicates with the SOS Inventory api, because SOS's api is weird and I don't want people going through the same pain I did.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenrazer/sos-api-node.git"
+  },
+  "keywords": [
+    "sos",
+    "inventory",
+    "api"
+  ],
+  "author": "Kyle Birnbaum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greenrazer/sos-api-node/issues"
+  },
+  "homepage": "https://github.com/greenrazer/sos-api-node#readme",
+  "dependencies": {}
+}
